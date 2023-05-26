@@ -42,7 +42,7 @@
 ### Links
 
 - Github: [Code](https://github.com/marventures/little-lemon-app)
-- Demo : Scan the [QR Code](https://expo.dev/@marventures/little-lemon-app) to see the demo.
+
 
 ## My process
 
@@ -144,6 +144,6 @@ useEffect(() => {
 
 ## Author
 
-- Website - [Marvin Morales Pacis](https://marvin-morales-pacis.vercel.app/)
-- LinkedIn - [@marventures](https://www.linkedin.com/in/marventures/)
-- Twitter - [@marventures11](https://www.twitter.com/marventures11)
+- Website - [Nadir Elzouki]()
+- LinkedIn - [@NadirElzouki](https://www.linkedin.com/in/nadir-elzouki-085a45212/)
+- Twitter - [@NadirElzouki](https://twitter.com/elzoukinadir1))
