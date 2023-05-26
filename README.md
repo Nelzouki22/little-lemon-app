@@ -146,4 +146,4 @@ useEffect(() => {
 
 - Website - [Nadir Elzouki]()
 - LinkedIn - [@NadirElzouki](https://www.linkedin.com/in/nadir-elzouki-085a45212/)
-- Twitter - [@NadirElzouki](https://twitter.com/elzoukinadir1))
+- Twitter - [@NadirElzouki](https://twitter.com/elzoukinadir1)
